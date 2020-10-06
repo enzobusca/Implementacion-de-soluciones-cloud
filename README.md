@@ -1,6 +1,6 @@
 # Materia: Implementacion de soluciones cloud
 
-Archivos de .tf de Terrafrom:
+Archivos .tf de Terrafrom:
 
 Practico 2
 
